@@ -1,4 +1,6 @@
-DEMO: `https://majorboner.github.io/zaloghub-todo/`
+## Демо
+
+https://majorboner.github.io/zaloghub-todo/
 
 ## Запуск
 
