@@ -1,3 +1,7 @@
+# ZalogHub
+
+Список задач React/TS. Сделано примерно за час работы.
+
 ## Демо
 
 https://majorboner.github.io/zaloghub-todo/
@@ -10,7 +14,6 @@ npm run dev
 ```
 
 запустится на `http://localhost:5173`
-
 
 ## Структура
 
